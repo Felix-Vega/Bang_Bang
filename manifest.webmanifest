@@ -1,0 +1,23 @@
+{
+    "name": "Proyecto 1",
+    "short_name": "Bang_Bang",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ff88ff",
+    "lang": "es",
+    "scope:": "/",
+    "description": "Juego de disparos en el que el jugador debe eliminar a los enemigos antes de que lo hagan a él.",
+    "theme_color": "#40C090",
+    "icons": [
+        {
+            "src": "img/pwa-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/pwa-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
